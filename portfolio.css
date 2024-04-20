@@ -1,0 +1,37 @@
+html{
+    background-color:#1c87c9;
+    color: wheat;
+   
+}
+.container{
+    background-color: #156da3;
+}
+table{
+   padding-left: 5%;
+    margin-top: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    display:block;
+    border: solid black 5px;
+  
+}
+
+img{
+  
+    border: solid #1cc981 2px;
+    border-radius: 50%;
+}
+.links{
+    
+   text-align: center;
+    background-color: rgb(16, 100, 179);
+    width: 200px; 
+   
+}
+a{
+    color: rgb(193, 119, 29);
+}
+a:hover{
+    background-color: #1cc981;
+}
